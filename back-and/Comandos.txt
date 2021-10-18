@@ -1,0 +1,12 @@
+1- npm install -g json-server
+2- para startar o servidor usa o comando: json-server --watch db.json
+3- npm init -y dentro da pasta backand.
+4- npm i express dentro da pasta backand.
+5- npm i -D nodemon dentro da pasta backand.
+6- npm install cors dentro da pasta backand.
+7- npm i mongoose@5.13.8 dentro da pasta backand.
+
+
+
+
+

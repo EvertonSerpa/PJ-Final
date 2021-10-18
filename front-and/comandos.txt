@@ -1,0 +1,4 @@
+1-yarn create react-app .
+2-npm install bootstrap
+3-npm install react-responsive-modal --save
+4-npm install --save react-router-dom
